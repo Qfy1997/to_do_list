@@ -1,0 +1,14 @@
+body{
+    background-color: #f7f9ff;
+}
+#topnav{
+              font-size:1.3em;
+              padding-left:5em;
+              padding-right:5em;
+              height:2.5em;
+          }
+
+
+          nav input{
+              witdh:39%!important;
+          }
